@@ -33,7 +33,7 @@ def menu():
             see_preparation(connection)
          
         else:
-            print("You are shit")
+            print("You no good")
             
             
             
